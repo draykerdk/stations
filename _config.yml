@@ -26,3 +26,4 @@ defaults:
       path: ""
     values:
       layout: default
+dk_sphere: "slate"  # ground: the places the network physically touches
