@@ -2,7 +2,9 @@
 
 **The places where the network touches ground.**
 
-Physical and hybrid places where the ecosystem exists somewhere: groups, research, production and services, organised as projects like everything else, and able to carry part of the ecosystem materially. An embassy is one model among many.
+Local context — physical and social — for collaboration, support, research, education, health, work and representation. Three things are meant by it, and they are not the same: **support stations**, which are volunteer groups; **centres**, where work, study, research and support happen in one place; and **embassies**, which are points of connection and adoption. All are organised as projects, like everything else.
+
+**It starts with an activity, not with a building.** The first experiment is meant to be a local or remote activity with clear responsibilities. A physical centre is only considered after there is evidence of demand and of something that can sustain itself. Anyone reading this as a plan to open buildings has it backwards.
 
 ## The problem it addresses
 
@@ -18,20 +20,25 @@ An organization with nowhere to be reaches only the people who were already onli
 
 Drayker has internal material on stations, support centres and embassies that is not published yet; nothing public states what a station commits to, how one is proposed, or how it relates to the support layer of the network.
 
+The internal material describes possibilities, not a network of operating locations. There is no inventory of properties, no staff, no budget, no licences and no confirmed pilot — and this is long-term work rather than something waiting on a decision.
+
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
 
 ## Scope
 
 - Stations as a project model
+- The distinction between support stations, centres and embassies
+- Activity first, and what evidence would justify a physical place
 - Production, research and service variants
-- Relation to distributed support
+- Relation to distributed support, Academy and the economy
 - Local emergence inside one global body
 
 ## Not in scope
 
 - An existing centre, embassy or physical facility.
 - A property, residency or relocation offer.
+- Any commitment to open a place, anywhere, on any timeline.
 
 ## Role in the system
 
@@ -46,9 +53,13 @@ Where the ecosystem exists physically.
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Write what a station has to commit to.
-2. Describe the first model worth trying.
-3. Map a station onto the distributed support layer.
+1. Design one pilot activity, local or remote: who coordinates it, what support it
+   offers, how participation is measured, and when it ends. This is the first thing,
+   and it needs no place at all.
+2. Write what a station has to commit to.
+3. Write what evidence of demand and sustainability would have to look like before a
+   physical centre is considered.
+4. Map a station onto the distributed support layer.
 
 ## How to contribute
 
