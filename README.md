@@ -1,5 +1,3 @@
-# Stations & embassies
-
 > Actual places — workshops, centres, embassies — so that taking part does not require already being online and already able.
 
 **The places where the network touches ground.**
