@@ -1,8 +1,8 @@
-> Actual places — workshops, centres, embassies — so that taking part does not require already being online and already able.
+> Actual places. Workshops, centres, embassies, so that taking part does not require already being online and already able.
 
 **The places where the network touches ground.**
 
-Local context — physical and social — for collaboration, support, research, education, health, work and representation. Three things are meant by it, and they are not the same: **support stations**, which are volunteer groups; **centres**, where work, study, research and support happen in one place; and **embassies**, which are points of connection and adoption. All are organised as projects, like everything else.
+Local context, physical and social, for collaboration, support, research, education, health, work and representation. Three things are meant by it, and they are not the same. **Support stations**, which are volunteer groups. **Centres**, where work, study, research and support happen in one place. And **embassies**, which are points of connection and adoption. All are organised as projects, like everything else.
 
 **It starts with an activity, not with a building.** The first experiment is meant to be a local or remote activity with clear responsibilities. A physical centre is only considered after there is evidence of demand and of something that can sustain itself. Anyone reading this as a plan to open buildings has it backwards.
 
@@ -18,9 +18,9 @@ An organization with nowhere to be reaches only the people who were already onli
 
 ## Where this stands
 
-Drayker has internal material on stations, support centres and embassies that is not published yet; nothing public states what a station commits to, how one is proposed, or how it relates to the support layer of the network.
+Drayker has internal material on stations, support centres and embassies that is not published yet. Nothing public states what a station commits to, how one is proposed, or how it relates to the support layer of the network.
 
-The internal material describes possibilities, not a network of operating locations. There is no inventory of properties, no staff, no budget, no licences and no confirmed pilot — and this is long-term work rather than something waiting on a decision.
+The internal material describes possibilities, not a network of operating locations. There is no inventory of properties, no staff, no budget, no licences and no confirmed pilot. This is long-term work rather than something waiting on a decision.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -74,11 +74,11 @@ Participation is voluntary and implies no compensation, employment or future cla
 ## Sources of truth
 
 - This repository, for what Stations & embassies is and is not.
-- [`.drayker/component.yml`](.drayker/component.yml) — the machine-readable contract,
+- [`.drayker/component.yml`](.drayker/component.yml). The machine-readable contract,
   validated on every pull request.
-- [drayker.org/project/stations/](https://drayker.org/project/stations/) — the same record
+- [drayker.org/project/stations/](https://drayker.org/project/stations/). The same record
   inside the portal, with the live board.
-- [drayker.com/project/stations/](https://drayker.com/project/stations/) — the case for it,
+- [drayker.com/project/stations/](https://drayker.com/project/stations/). The case for it,
   in plain terms.
 
 ---
