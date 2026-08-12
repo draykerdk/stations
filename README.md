@@ -40,13 +40,11 @@ document about it has somewhere to live and someone can argue with it in public.
 - A property, residency or relocation offer.
 - Any commitment to open a place, anywhere, on any timeline.
 
-## Role in the system
+## How it fits the whole
 
-Where the ecosystem exists physically.
+Where the ecosystem exists physically — the places where a network of people who may never meet in person finally meets.
 
-**Relations.** A model on the projects platform · part of the distributed support layer · resources governed through DAF.
-
-**Depends on.** `dsupport` · `daf` · `valueunit`
+Stations are a model on the [projects platform](https://pap.drayker.org), organised like any other project. They are part of the [distributed support](https://support.drayker.org) layer, and their resources are governed through [DAF](https://daf.drayker.org) and funded by the [value unit](https://value.drayker.org). They carry the physical side of the rest of the ecosystem: the [Academy](https://academy.drayker.org) has spaces and laboratories there, [open science](https://science.drayker.org) has its clinics, and volunteers who study and collaborate can live and travel between them. An organization with nowhere to be reaches only the people who were already online — stations are how the network touches the ground.
 
 ## First functions
 
