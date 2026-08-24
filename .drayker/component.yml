@@ -4,8 +4,9 @@ component:
   name: Stations & embassies
   layer: PLATFORM
   artifact_type: architecture
-  problem: "An organization with nowhere to be reaches only the people who were already online and already able."
+  problem: "Stations, centres and embassies are physical presence, support and local context for the ecosystem: an organization with nowhere to be reaches only the people who were already online and already able."
   scope:
+    - "Public description of stations as physical presence, support and local context."
     - "Public description of stations as a project model."
     - "Public description of the distinction between support stations, centres and embassies."
     - "Public description of activity first, and what evidence would justify a physical place."
@@ -29,10 +30,11 @@ component:
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
+    - Stations could be mistaken for an operating network of properties; they are a model, and physical places require evidence of demand.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/stations/issues
   source_of_truth:
     repository: https://github.com/draykerdk/stations
     path: README.md
-  last_reviewed: "2026-08-11"
+  last_reviewed: "2026-08-17"
