@@ -18,9 +18,9 @@ An organization with nowhere to be reaches only the people who were already onli
 
 ## Where this stands
 
-The current public formulation is confirmed: stations, centres and embassies are physical presence, support and local context for the whole ecosystem — places where the network can exist locally, carry support and offer context that pure online coordination cannot. The first concrete commitment — what a station commits to, how one is proposed, or how it relates to the support layer of the network — is still open specification work.
+Drayker has internal material on stations, support centres and embassies that is not published yet. Nothing public states what a station commits to, how one is proposed, or how it relates to the support layer of the network.
 
-That formulation describes possibilities, not a network of operating locations. There is no inventory of properties, no staff, no budget, no licences and no confirmed pilot. This is long-term work rather than something waiting on a decision.
+The internal material describes possibilities, not a network of operating locations. There is no inventory of properties, no staff, no budget, no licences and no confirmed pilot. This is long-term work rather than something waiting on a decision.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -44,7 +44,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 Where the ecosystem exists physically — the places where a network of people who may never meet in person finally meets.
 
-Stations are a model on the [projects platform](https://pap.drayker.org), organised like any other project. They are part of the [distributed support](https://support.drayker.org) layer, whose economy is the economy of capacity: resources circulate contextually through need, intention, reputation and project evidence, with [Dktron](https://value.drayker.org) as the proposed representation of resources and funds and [DAF](https://daf.drayker.org) as a transitional scaffold. They carry the physical side of the rest of the ecosystem: the [Academy](https://academy.drayker.org) has spaces and laboratories there, [open science](https://science.drayker.org) has its clinics, and people who study and collaborate can meet and work between them. An organization with nowhere to be reaches only the people who were already online — stations are how the network touches the ground.
+Stations are a model on the [projects platform](https://pap.drayker.org), organised like any other project. They may become local physical and social fronts of the wider [Distributed Support](https://support.drayker.org) program, but they are not the whole program and support need not require a place. Their needs, resources and consequences belong to the broader capacity economy and member governance; [DAF](https://daf.drayker.org) may test limited rules during the transition, while [Dktron/value units](https://value.drayker.org) are proposed instruments for distributing resources and connecting to external economies. A station could eventually host Academy activities, laboratories, open-science work or material support, but none of those facilities, clinics, residences or travel programmes exists today. An organization with nowhere to be reaches only the people who were already online — stations are one proposed way the network could touch the ground.
 
 ## First functions
 
