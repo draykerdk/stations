@@ -4,20 +4,18 @@ component:
   name: Stations & embassies
   layer: PLATFORM
   artifact_type: architecture
-  problem: "An organization with nowhere to be cannot anchor global resilience or partner materially with sovereign nations; stations, centres and embassies would provide local presence, support and bilateral cooperation across territories."
+  problem: "Physical presence, support and local context for the ecosystem: an organization with nowhere to be reaches only the people who were already online and already able."
   scope:
-    - "Public description of support stations and local posts as community activities and hubs for practical work, network access and mutual support."
-    - "Public description of centres as future integrated spaces for study, laboratories, research, hardware access and material support."
-    - "Public description of embassies as bilateral cooperative spaces that could be hosted voluntarily by sovereign nations and partner governments."
-    - "Public description of a possible strategic exchange: host nations could receive prioritized access to climate security, disaster anticipation, technological capacity-building, industrial modernization and open data infrastructure in exchange for territorial space and operating guarantees."
-    - "Public description of accountable ambassadors representing Drayker before governments and civil society under explicit bilateral mandates."
+    - "Public description of multiple tiers of physical support structures for members."
+    - "Public description of local stations and postos: community hubs for member practical work, study, hardware access and mutual support."
+    - "Public description of embassies: bilateral diplomatic and strategic cooperation agreements with sovereign states for climate security, disaster anticipation and multilateral technology cooperation."
     - "Public description of complementary roles: local hubs serve member everyday needs, while embassies articulate sovereign multilateral agreements."
     - "Public description of activity first, and what evidence justifies physical installation."
     - "Public description of relation to distributed support, Academy and the capacity economy."
   non_scope:
-    - "An existing centre, embassy or physical facility."
-    - "A property, residency or relocation offer."
-    - "An extraterritorial enclave or imperial outpost; any embassy would operate through bilateral cooperation with its sovereign jurisdiction."
+    - "An existing operational embassy or physical facility today."
+    - "A commercial property, speculative real estate or residency offer."
+    - "Any unilateral claim of state territorial sovereignty."
   dependencies:
     - dsupport
     - daf
@@ -32,11 +30,10 @@ component:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
     - Stations could be mistaken for an operating network of properties; they are a model requiring validated community demand or bilateral state agreements.
-    - Embassy language could be mistaken for a present diplomatic status or territorial claim where no agreement exists.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/stations/issues
   source_of_truth:
     repository: https://github.com/draykerdk/stations
     path: README.md
-  last_reviewed: "2026-09-03"
+  last_reviewed: "2026-09-08"
