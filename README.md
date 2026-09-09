@@ -2,19 +2,12 @@
 
 **The places where the network touches ground.**
 
-Local context, physical and social, for collaboration, support, research, education, work and representation. The design distinguishes three material levels with complementary roles:
+Local context, physical and social, for collaboration, support, research, education, health, work and representation. There are multiple types of physical support structures for members, fulfilling distinct and complementary roles:
 
-- **Support stations and local posts:** local volunteer groups and activities for mutual support, practical work, network access and community coordination.
-- **Centres:** physical spaces that could integrate study, laboratories, research, hardware access and material support after demand and sustainability are demonstrated.
-- **Embassies:** a future diplomatic and territorial interface built through bilateral cooperation agreements with sovereign states and nations.
+- **Support stations and postos:** Community-level physical structures providing workspace, study, hardware access, network nodes, and mutual care for members in a territory.
+- **Embassies:** Bilateral strategic cooperation agreements with sovereign states and nations: host countries grant territorial space and operational guarantees in exchange for prioritized access to climate security, disaster anticipation, advanced open research, and multilateral technology cooperation.
 
-**It starts with an activity, not with a building.** A local station begins with community activity and validated need. A centre requires evidence that a durable place is justified. An embassy requires formal bilateral cooperation. Anyone reading this as an immediate commercial real-estate plan has it backwards.
-
-## Sovereign cooperation and transnational diplomacy
-
-An embassy would not be a self-declared enclave or a claim against the jurisdiction that hosts it. It is designed as material ground for respectful scientific, educational and institutional cooperation with a partner government. Under a negotiated agreement, a host nation could provide territorial space and operating guarantees while receiving prioritized access to open climate-security networks, disaster anticipation, technological capacity-building, industrial modernization and multilateral research infrastructure.
-
-This diplomatic role is distinct from everyday member support. Stations and posts serve local participation; centres integrate sustained study and work; embassies connect the system to sovereign institutions. Each remains subject to local law, explicit agreements, evidence and public accountability.
+**It starts with an activity, not with a building.** A local station begins with community activity and validated need. An embassy emerges from formal bilateral sovereign cooperation. Anyone reading this as an immediate commercial real estate plan has it backwards.
 
 ## The problem it addresses
 
@@ -38,8 +31,7 @@ document about it has somewhere to live and someone can argue with it in public.
 ## Scope
 
 - Stations as a project model
-- The distinction between support stations, centres and bilateral embassies
-- Respectful sovereign cooperation with partner governments on climate resilience, disaster anticipation, education, research and technological capacity
+- The distinction between support stations, centres and embassies
 - Activity first, and what evidence would justify a physical place
 - Production, research and service variants
 - Relation to distributed support, Academy and the economy
@@ -50,7 +42,6 @@ document about it has somewhere to live and someone can argue with it in public.
 - An existing centre, embassy or physical facility.
 - A property, residency or relocation offer.
 - Any commitment to open a place, anywhere, on any timeline.
-- An extraterritorial enclave or imperial outpost; any embassy would operate through bilateral cooperation with its sovereign jurisdiction.
 
 ## How it fits the whole
 
