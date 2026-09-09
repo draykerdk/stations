@@ -1,6 +1,6 @@
 # Stations & embassies
 
-> The places where the network touches ground. Physical presence, support and local context: stations, centres and embassies where the ecosystem exists somewhere — groups, research, production and services, organised as projects like everything else, and able to carry part of the ecosystem materially.
+> Stations proposes local spaces for learning, collaboration, tools, care and infrastructure. It also distinguishes those community functions from the separate proposal for institutional embassies.
 
 Stations & embassies is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 

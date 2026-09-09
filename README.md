@@ -1,23 +1,18 @@
-> Actual places. Workshops, centres, embassies, so that taking part does not require already being online and already able.
+> Physical places that support participation and shared work.
 
-**The places where the network touches ground.**
+Stations proposes local spaces for learning, collaboration, tools, care and infrastructure. It also distinguishes those community functions from the separate proposal for institutional embassies.
 
-Local context, physical and social, for collaboration, support, research, education, health, work and representation. There are multiple types of physical support structures for members, fulfilling distinct and complementary roles:
+A station would be shaped around local activities and needs, linking people and resources to the wider network. Embassy proposals concern negotiated institutional cooperation.
 
-- **Support stations and postos:** Community-level physical structures providing workspace, study, hardware access, network nodes, and mutual care for members in a territory.
-- **Embassies:** Bilateral strategic cooperation agreements with sovereign states and nations: host countries grant territorial space and operational guarantees in exchange for prioritized access to climate security, disaster anticipation, advanced open research, and multilateral technology cooperation.
+Physical presence gives the distributed system a relationship with the places and communities it is intended to serve.
 
-**It starts with an activity, not with a building.** A local station begins with community activity and validated need. An embassy emerges from formal bilateral sovereign cooperation. Anyone reading this as an immediate commercial real estate plan has it backwards.
+## A practical example
+
+A local group could begin with regular study and workshop sessions in an available space, then assess which shared tools and support would make the activity sustainable. This is an illustration of the proposed design.
 
 ## The problem it addresses
 
-An organization with nowhere to be reaches only the people who were already online and already able. Physical presence is what makes participation possible for everyone else.
-
-**How it works today.** Distributed organizations reach the connected and the already-equipped, and call that openness.
-
-**What would change.** Places are proposed and run like any other project, and they carry part of the ecosystem materially.
-
-**Why the rest depends on it.** Without somewhere to be, an organization for everyone reaches whoever already had a laptop and time.
+Participation depends on physical and social conditions as well as connectivity. People may need a place to meet, equipment to use or practical support to begin.
 
 ## Where this stands
 
@@ -25,8 +20,7 @@ Drayker has internal material on stations, support centres and embassies that is
 
 The internal material describes possibilities, not a network of operating locations. There is no inventory of properties, no staff, no budget, no licences and no confirmed pilot. This is long-term work rather than something waiting on a decision.
 
-Nothing described here is implemented. This repository exists so that the first
-document about it has somewhere to live and someone can argue with it in public.
+This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
 ## Scope
 
