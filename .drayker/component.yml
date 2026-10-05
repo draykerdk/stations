@@ -10,12 +10,13 @@ component:
     - "Public description of local stations and postos: community hubs for member practical work, study, hardware access and mutual support."
     - "Public description of embassies: agreements with sovereign states for climate security, disaster anticipation and technology cooperation, most often as an autonomous zone on territory a state cedes with the support of its people."
     - "Public description of pure autonomous zones on the high seas, where no territory needs to be ceded, and of a whole country becoming a member by adopting the Drayker infrastructure."
+    - "Public description of stations as Drayker properties anywhere in the world, like offices for study, research and work, without needing to be autonomous zones; autonomous zones include housing."
     - "Public description of complementary roles: local hubs serve member everyday needs, while embassies articulate sovereign multilateral agreements."
     - "Public description of activity first, and what evidence justifies physical installation."
     - "Public description of relation to distributed support, Academy and the capacity economy."
   non_scope:
     - "An existing operational embassy or physical facility today."
-    - "A commercial property, speculative real estate or residency offer."
+    - "Speculative real estate, or property and residency sold as products."
     - "Any claim over a state's territory without that state's consent. Pure autonomous zones on the high seas need no cession."
   dependencies:
     - dsupport
