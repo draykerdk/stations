@@ -2,7 +2,7 @@
 
 Stations proposes local spaces for learning, collaboration, tools, care and infrastructure. It also distinguishes those community functions from the separate proposal for institutional embassies.
 
-A station would be shaped around local activities and needs, linking people and resources to the wider network. Embassy proposals concern negotiated institutional cooperation.
+A station would be shaped around local activities and needs, linking people and resources to the wider network. Embassy proposals concern negotiated institutional cooperation and, most of the time, an autonomous zone on territory a country cedes.
 
 Physical presence gives the distributed system a relationship with the places and communities it is intended to serve.
 
@@ -16,7 +16,7 @@ Participation depends on physical and social conditions as well as connectivity.
 
 ## Where this stands
 
-Local posts and stations are territorial structures for work, formation, access to advanced equipment, laboratories and mutual support; their usefulness is measured by the real capacity people build there. Embassies belong to another scale: institutional centres resulting from bilateral agreements with countries and governments, for cooperation in research, technological capacity, industrial modernization, climate security and disaster preparedness. The name does not by itself create a diplomatic status, and territorial embassies are distinct from the Embassy of Drayker, the founding core described in [GOVERNANCE.md](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md).
+Local posts and stations are territorial structures for work, formation, access to advanced equipment, laboratories and mutual support; their usefulness is measured by the real capacity people build there. Embassies belong to another scale. They come from agreements with countries and governments, for cooperation in research, technological capacity, industrial modernization, climate security and disaster preparedness, and most of the time an embassy is an autonomous zone on ceded territory. It is not a simple concession: with the support of its people and the consent of its state, a country cedes territory that becomes an autonomous zone, independent, almost another country, often still bordering other states. Pure autonomous zones are at sea. On the high seas no one needs to cede territory, and that is their great advantage. A whole country can also become a member, by adopting the whole Drayker infrastructure and running on the supersystem. The name does not by itself create a diplomatic status: conditions, guarantees and responsibilities depend on the concrete agreements. Territorial embassies are distinct from the Embassy of Drayker, the founding core described in [GOVERNANCE.md](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md).
 
 Drayker also has internal material on stations and support centres that is not published yet. Nothing public states what a station commits to, how one is proposed, or how it relates to the support layer of the network.
 
