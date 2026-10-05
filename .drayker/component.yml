@@ -16,7 +16,7 @@ component:
   non_scope:
     - "An existing operational embassy or physical facility today."
     - "A commercial property, speculative real estate or residency offer."
-    - "Any unilateral claim of state territorial sovereignty."
+    - "Any claim over a state's territory without that state's consent. Pure autonomous zones on the high seas need no cession."
   dependencies:
     - dsupport
     - daf
