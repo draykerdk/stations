@@ -4,7 +4,7 @@ component:
   name: Stations & embassies
   layer: PLATFORM
   artifact_type: architecture
-  problem: "Physical presence, support and local context for the ecosystem: an organization with nowhere to be reaches only the people who were already online and already able."
+  problem: "Physical presence, support and local context for the ecosystem: a supersystem with nowhere to be reaches only the people who were already online and already able."
   scope:
     - "Public description of multiple tiers of physical support structures for members."
     - "Public description of local stations and postos: community hubs for member practical work, study, hardware access and mutual support."
@@ -38,4 +38,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/stations
     path: README.md
-  last_reviewed: "2026-09-08"
+  last_reviewed: "2026-10-07"
