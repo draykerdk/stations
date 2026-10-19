@@ -9,9 +9,9 @@ component:
     - "Public description of multiple tiers of physical support structures for members."
     - "Public description of local stations and postos: community hubs for member practical work, study, hardware access and mutual support."
     - "Public description of embassies: agreements with sovereign states for climate security, disaster anticipation and technology cooperation, most often as an autonomous zone on territory a state cedes with the support of its people."
-    - "Public description of pure autonomous zones on the high seas, where no territory needs to be ceded, and of a whole country becoming a member by adopting the Drayker infrastructure."
+    - "Public description of pure autonomous zones on the high seas, where no territory needs to be ceded, and of a whole country adopting the Drayker infrastructure in a local and customized version isolated from the global network, where each person has a UID in that system, using it does not make anyone a member, and whoever also makes it a member UID has the two integrated, almost like two nationalities."
     - "Public description of stations as Drayker properties anywhere in the world, like offices for study, research and work, without needing to be autonomous zones; autonomous zones include housing."
-    - "Public description of complementary roles: local hubs serve member everyday needs, while embassies articulate sovereign multilateral agreements."
+    - "Public description of complementary roles: local hubs serve member everyday needs, while embassies articulate sovereign bilateral agreements."
     - "Public description of activity first, and what evidence justifies physical installation."
     - "Public description of relation to distributed support, Academy and the capacity economy."
   non_scope:
@@ -38,4 +38,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/stations
     path: README.md
-  last_reviewed: "2026-10-07"
+  last_reviewed: "2026-10-19"
