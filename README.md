@@ -18,7 +18,7 @@ Participation depends on physical and social conditions as well as connectivity.
 
 ## Where this stands
 
-Local posts and stations are territorial structures for work, formation, access to advanced equipment, laboratories and mutual support; their usefulness is measured by the real capacity people build there. A station does not need to be an autonomous zone: it is a Drayker property anywhere in the world, much like an office for a given purpose, from study and research to work. Embassies belong to another scale. They come from agreements with countries and governments, for cooperation in research, technological capacity, industrial modernization, climate security and disaster preparedness, and most of the time an embassy is an autonomous zone on ceded territory. It is not a simple concession: with the support of its people and the consent of its state, a country cedes territory that becomes an autonomous zone, independent, almost another country, often still bordering other states. Pure autonomous zones are at sea. On the high seas no one needs to cede territory, and that is their great advantage. Autonomous zones, at sea or on ceded territory, include housing for the people who live and work there. A whole country can also adopt the Drayker infrastructure in a local and customized version that runs isolated from the global network. Each person in the country has their own UID in that system. Using that system does not make anyone a member: each person chooses whether to make their UID also a Drayker member UID. Whoever does has the two integrated, almost like two nationalities. That is where the name comes from: an embassy becomes a sovereign territory of Drayker bordering other countries, and its conditions, guarantees and responsibilities are set in the concrete bilateral agreements. Territorial embassies are distinct from the Embassy of Drayker, the founding core described in [GOVERNANCE.md](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md).
+Local posts and stations are territorial structures for work, formation, access to advanced equipment, laboratories and mutual support; they are places where tools and hardware are kept, where members pass on what they have learned and where projects receive physical support that no individual could keep up alone; their usefulness is measured by the real capacity people build there. A station does not need to be an autonomous zone: it is a Drayker property anywhere in the world, much like an office for a given purpose, from welcoming members and study to research and work. Embassies belong to another scale. They come from agreements with countries and governments, for cooperation in research, technological capacity, industrial modernization, climate security and disaster preparedness, and most of the time an embassy is an autonomous zone on ceded territory. It is not a simple concession: with the support of its people and the consent of its state, a country cedes territory that becomes an autonomous zone, independent, almost another country, often still bordering other states. Pure autonomous zones are at sea. On the high seas no one needs to cede territory, and that is their great advantage. Autonomous zones, at sea or on ceded territory, include housing for the people who live and work there. A whole country can also adopt the Drayker infrastructure in a local and customized version that runs isolated from the global network. Each person in the country has their own UID in that system. Using that system does not make anyone a member: each person chooses whether to make their UID also a Drayker member UID. Whoever does has the two integrated, almost like two nationalities. That is where the name comes from: an embassy becomes a sovereign territory of Drayker bordering other countries, and its conditions, guarantees and responsibilities are set in the concrete bilateral agreements. Territorial embassies are distinct from the Embassy of Drayker, the founding core described in [GOVERNANCE.md](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md).
 
 Drayker also has internal material on stations and support centres that is not published yet. Nothing public states what a station commits to, how one is proposed, or how it relates to the support layer of the network.
 
@@ -26,11 +26,19 @@ The internal material describes possibilities, not a network of operating locati
 
 This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
+## An embassy, not an enclave
+
+An embassy does not take land from a people. It exists only with the support of the local population and the agreement of the state. Its purpose is cooperation in research, technological capacity, industrial modernization, climate security and disaster preparedness, never extraction. It is a barrier against domination: a country's superintelligence is built by its own people instead of arriving ready from whoever dominates it. People affected from outside, who never chose to take part, receive accessible information, representation, negotiation of conditions and means of repair. On the high seas no one needs to cede territory at all. The conditions, guarantees and responsibilities of each embassy are set in the agreement that creates it.
+
+The contrast is real. Próspera, in Honduras, was presented as a zone for employment and economic development. After Congress repealed the law that created such zones in 2022, the company claimed about 10.8 billion US dollars from the country at the World Bank's arbitration centre, under the CAFTA-DR trade agreement, and on 20 September 2024 the Supreme Court declared the zones unconstitutional, by eight votes to seven.
+
+Sources: [Claimants' observations on the respondent's preliminary objection](https://www.italaw.com/sites/default/files/case-documents/italaw182537.pdf), *Honduras Próspera Inc. and others v. Republic of Honduras*, ICSID Case No. ARB/23/2, 26 September 2024; [the tribunal's decision on the preliminary objections](https://www.italaw.com/sites/default/files/case-documents/italaw1826660.pdf) in the same case, 26 February 2025; Marcia Perdomo, ["Crypto Bros Are Trying to Bankrupt Honduras for Scuttling Their Private Cities"](https://fpif.org/crypto-bros-are-trying-to-bankrupt-honduras-for-scuttling-their-private-cities/), Foreign Policy in Focus, 6 February 2025.
+
 ## Scope
 
 - Stations as a project model
 - The distinction between local posts and stations, support centres and embassies
-- Activity first, and what evidence would justify a physical place
+- A station begins as a project, and its place follows from what the project already delivers and needs
 - Production, research and service variants
 - Relation to distributed support, Academy and the economy
 - Local emergence inside one global body
@@ -39,7 +47,7 @@ This repository develops the proposal through public documentation and review. T
 
 - An existing centre, embassy or physical facility.
 - A property, residency or relocation offer available today.
-- Any commitment to open a place, anywhere, on any timeline.
+- A date for any particular place, or a place promised to anyone. The first embassy belongs to the consolidation phase that the 2033 objective names ([Direction](https://dknowledge.drayker.org/roadmap/DIRECTION)).
 
 ## How it fits the whole
 
@@ -53,11 +61,10 @@ These are concrete and unclaimed. Any of them can be opened as an issue and deli
 by one person.
 
 1. Design one pilot activity, local or remote: who coordinates it, what support it
-   offers, how participation is measured, and when it ends. This is the first thing,
-   and it needs no place at all.
+   offers, how participation is measured, and when it ends. It needs no place at all.
 2. Write what a station has to commit to.
-3. Write what evidence of demand and sustainability would have to look like before a
-   physical centre is considered.
+3. Write what a station project has to show, in delivery and in self-sustaining
+   activity, before common capacity goes into a place.
 4. Map a station onto the distributed support layer.
 
 ## How to contribute
