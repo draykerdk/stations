@@ -9,7 +9,7 @@ component:
     - "Public description of multiple tiers of physical support structures for members."
     - "Public description of local stations and postos: community hubs for member practical work, study, hardware access and mutual support, where tools and hardware are kept, members pass on what they have learned and projects receive physical support that no individual could keep up alone."
     - "Public description of embassies: agreements with sovereign states for climate security, disaster anticipation and technology cooperation, most often as an autonomous zone on territory a state cedes with the support of its people."
-    - "Public description of pure autonomous zones on the high seas, where no territory needs to be ceded, and of a whole country adopting the Drayker infrastructure in a local and customized version isolated from the global network, where each person has a UID in that system, using it does not make anyone a member, and whoever also makes it a member UID has the two integrated, almost like two nationalities."
+    - "Public description of pure autonomous zones on the high seas, where no territory needs to be ceded, and of a whole country adopting the Drayker infrastructure in a local and customized version isolated from the global network, where each person has a UID in that system, using it does not make anyone a member, and whoever also makes it a member UID has the two integrated, almost like dual citizenship."
     - "Public description of stations as Drayker properties anywhere in the world, like offices for welcoming members, study, research and work, without needing to be autonomous zones; autonomous zones include housing."
     - "Public description of complementary roles: local hubs serve member everyday needs, while embassies articulate sovereign bilateral agreements."
     - "Public description of a station beginning as a project, with its place following from what the project already delivers and needs."
@@ -41,4 +41,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/stations
     path: README.md
-  last_reviewed: "2026-10-19"
+  last_reviewed: "2026-10-21"
